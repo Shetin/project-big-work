@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>3stone.png</file>
+        <file>blood.png</file>
+        <file>boss.png</file>
+        <file>brick2.png</file>
+        <file>clock.jpg</file>
+        <file>clock.png</file>
+        <file>magic.png</file>
+        <file>map.jpg</file>
+        <file>map.png</file>
+        <file>map003.png</file>
+        <file>map006.png</file>
+        <file>tank.png</file>
+        <file>TileB.png</file>
+        <file>tree.png</file>
+        <file>wall.png</file>
+        <file>wall2.png</file>
+        <file>wall3.png</file>
+        <file>dead.png</file>
+        <file>life.png</file>
+        <file>magicshot.png</file>
+    </qresource>
+</RCC>
